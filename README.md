@@ -1,5 +1,5 @@
 # Api Checker
-Api Checker is a .NET web forms application that checks preset web addresses for being online.
+Api Checker is a .NET Windows Forms application that checks preset web addresses for being online.
 
 ![](/resources/apichecker.png)
 
